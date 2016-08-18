@@ -9,3 +9,6 @@ First, write all the artists names whose lyrics you want to retrieve in `list.da
 After that, save your file and run (this was tested on Python 2.7):
 
 `python scraper.py`
+
+
+After that, your lyrics will be written in input.txt. See sample output in `input.txt` (A little confusing, but again this program is meant to create input for a RNN)
